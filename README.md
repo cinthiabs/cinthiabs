@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning: .NET and C#.
+- 💬 Ask me about Technology
+- ⚡ I always seek new knowledge and challenges.
+- 📫 How to reach me: 
+
+[![Linkedin Badge](http://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cinthiabs/)](https://www.linkedin.com/in/cinthiabs/)
+[![Outlook Badge](https://img.shields.io/badge/-cinthiabarbosa8d@outlook.com-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:cinthiabarbosa8d@outlook.com)](mailto:cinthiabarbosa8d@outlook.com)
