@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **cinthiabs/cinthiabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning: .NET and C#.
+- 🌱 I’m currently learning: .NET C#.
 - 💬 Ask me about Technology
 - ⚡ I always seek new knowledge and challenges.
 - 📫 How to reach me: 
