@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning: .NET C#.
-- 💬 Ask me about Technology
+- 💬 Ask me about Technology, movies and books.
 - ⚡ I always seek new knowledge and challenges.
 - 📫 How to reach me: 
 
