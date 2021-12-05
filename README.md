@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 - 💬 Ask me about Technology, movies and books.
-- ⚡ I always seek new knowledge and challenges.
 - 📫 How to reach me: 
 
 [![Linkedin Badge](http://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cinthiabs/)](https://www.linkedin.com/in/cinthiabs/)
