@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 - 💬 Ask me about Technology, movies and books.
-- 🌱 Check out my articles in the [Dev Community](https://dev.to/cinthiabs)
+- <a href="https://dev.to/cinthiabs" target="_blank">🌱 Check out my articles in the Dev Community</a>
+
 
 <h2>
 
